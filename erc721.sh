@@ -144,5 +144,5 @@ echo "mint.js script created."
 echo "Minting NFT..."
 npx hardhat run scripts/mint.js --network swisstronik
 echo "NFT minted."
-
+https://github.com/abhiag/gatronk/blob/main/perc20.sh
 echo "Done! Subscribe: https://t.me/GaCryptOfficial"
